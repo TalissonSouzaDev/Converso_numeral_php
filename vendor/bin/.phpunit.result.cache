@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ConvertTest::testRomanToInteiroFailed":8,"ConvertTest::testRomanToInteiro":8,"ConvertTest::testInteiroToRoman":8},"times":{"ConvertTest::testRomanToInteiroFailed":0.007,"ConvertTest::testRomanToInteiro":0,"ConvertTest::testInteiroToRoman":0,"ConvertTest::testInteiro":0.001}}

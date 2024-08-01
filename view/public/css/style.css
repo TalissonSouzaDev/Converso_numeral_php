@@ -1,0 +1,32 @@
+.container-main {
+    background-image: linear-gradient(rgb(255, 102, 0), rgb(219, 219, 202));
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-home {
+    background-color: aliceblue;
+    width: 40%;
+    height: 30vh;
+    border-radius: 6px;
+    box-shadow: 2px 5px 6px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.form-group {
+    display: flex;
+    justify-content: center;
+}
+
+.form-group input {
+    width: 50%;
+    margin-right: 5px;
+}

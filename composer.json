@@ -1,0 +1,17 @@
+{
+    "name": "talissonsouza/real_romano",
+    "autoload": {
+        "psr-4": {
+            "Talissonsouza\\RealRomano\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TalissonSouza",
+            "email": "talissonmdsouza@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
